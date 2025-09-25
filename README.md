@@ -218,7 +218,8 @@ A feedback module should allow operators to rate system responses, report interf
 
 ## 14. Multi-Modal Prompt
 
-![image](https://github.com/user-attachments/assets/256e8aee-b454-4032-884d-0aec131bd680)
+<img width="630" height="315" alt="image" src="https://github.com/user-attachments/assets/4611504c-6956-40c0-a06a-b58880a2593a" />
+
 
 
 ### Prompt Used:
