@@ -26,7 +26,8 @@ The challenge lies in enabling **self-driving cars** to prioritize **safety, eff
 - 🌍 **Build trust in AVs** for large-scale urban adoption.  
 
 ---
-<img width="500" height="300" alt="ChatGPT Image Sep 2, 2025, 09_22_45 PM" src="https://github.com/user-attachments/assets/3f3ab388-d4fa-4ebd-9c8c-8068c9a3e4e1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe8e7741-0ae3-4f4b-a420-17935db7d3c4" />
+
 
 
 ## 🧩 Idea Generation Prompts
